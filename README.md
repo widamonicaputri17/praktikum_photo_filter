@@ -1,16 +1,7 @@
-# photo_filter_carousel
+#WIDA MONICA PUTRI
+#NIM 362358302008
+#HASIL PRAKTIKUM :
+![Screenshot 2024-11-04 112207](https://github.com/user-attachments/assets/4c680548-3b55-4d37-957b-40ce73e4ec52)
+![Screenshot 2024-11-04 112321](https://github.com/user-attachments/assets/3a0dc803-c734-4ef7-b80d-cda25c77aa14)
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
